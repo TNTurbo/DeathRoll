@@ -1,0 +1,20 @@
+C:\Users\Jacob\Source\Repos\DeathRollSim\DeathRollSim\bin\Debug\DeathRollSim.exe.config
+C:\Users\Jacob\Source\Repos\DeathRollSim\DeathRollSim\bin\Debug\DeathRollSim.exe
+C:\Users\Jacob\Source\Repos\DeathRollSim\DeathRollSim\bin\Debug\DeathRollSim.pdb
+C:\Users\Jacob\Source\Repos\DeathRollSim\DeathRollSim\obj\Debug\DeathRollSim.csprojAssemblyReference.cache
+C:\Users\Jacob\Source\Repos\DeathRollSim\DeathRollSim\obj\Debug\DeathRollSim.Deathroll.resources
+C:\Users\Jacob\Source\Repos\DeathRollSim\DeathRollSim\obj\Debug\DeathRollSim.Properties.Resources.resources
+C:\Users\Jacob\Source\Repos\DeathRollSim\DeathRollSim\obj\Debug\DeathRollSim.csproj.GenerateResource.cache
+C:\Users\Jacob\Source\Repos\DeathRollSim\DeathRollSim\obj\Debug\DeathRollSim.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Source\Repos\DeathRollSim\DeathRollSim\obj\Debug\DeathRollSim.exe
+C:\Users\Jacob\Source\Repos\DeathRollSim\DeathRollSim\obj\Debug\DeathRollSim.pdb
+D:\Documents\Visual Studio 2017\Projects\C#\DeathRollSim\DeathRollSim\bin\Debug\DeathRollSim.exe.config
+D:\Documents\Visual Studio 2017\Projects\C#\DeathRollSim\DeathRollSim\bin\Debug\DeathRollSim.exe
+D:\Documents\Visual Studio 2017\Projects\C#\DeathRollSim\DeathRollSim\bin\Debug\DeathRollSim.pdb
+D:\Documents\Visual Studio 2017\Projects\C#\DeathRollSim\DeathRollSim\obj\Debug\DeathRollSim.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\C#\DeathRollSim\DeathRollSim\obj\Debug\DeathRollSim.Deathroll.resources
+D:\Documents\Visual Studio 2017\Projects\C#\DeathRollSim\DeathRollSim\obj\Debug\DeathRollSim.Properties.Resources.resources
+D:\Documents\Visual Studio 2017\Projects\C#\DeathRollSim\DeathRollSim\obj\Debug\DeathRollSim.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2017\Projects\C#\DeathRollSim\DeathRollSim\obj\Debug\DeathRollSim.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\C#\DeathRollSim\DeathRollSim\obj\Debug\DeathRollSim.exe
+D:\Documents\Visual Studio 2017\Projects\C#\DeathRollSim\DeathRollSim\obj\Debug\DeathRollSim.pdb
